@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.1c77483d.css",
-    "main.js": "/static/js/main.e1cfbafc.js",
+    "main.js": "/static/js/main.34335f53.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/screenshot_pray.png": "/static/media/screenshot_pray.cd4768d4cf9631f786e9.png",
+    "static/media/screenshot_sfsu.png": "/static/media/screenshot_sfsu.a3f63bc32a4102831538.png",
     "static/media/computer-1873831.png": "/static/media/computer-1873831.26aae115d1bf697014a8.png",
     "static/media/image_csharp.jpg": "/static/media/image_csharp.ed0f932c66e87bf401ca.jpg",
     "static/media/image_androidstudio.png": "/static/media/image_androidstudio.1ff3f7abec857f9f7102.png",
@@ -23,11 +25,11 @@
     "static/media/image_kotlin.png": "/static/media/image_kotlin.9a384e3558ce97d8d2fb.png",
     "index.html": "/index.html",
     "main.1c77483d.css.map": "/static/css/main.1c77483d.css.map",
-    "main.e1cfbafc.js.map": "/static/js/main.e1cfbafc.js.map",
+    "main.34335f53.js.map": "/static/js/main.34335f53.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c77483d.css",
-    "static/js/main.e1cfbafc.js"
+    "static/js/main.34335f53.js"
   ]
 }
