@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.469e88ae.css",
-    "main.js": "/static/js/main.688b6079.js",
+    "main.css": "/static/css/main.1a972258.css",
+    "main.js": "/static/js/main.e01bde0e.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/screenshot_bayroomates.png": "/static/media/screenshot_bayroomates.c4ec029d3fbc5808112c.png",
     "static/media/screenshot_pray.png": "/static/media/screenshot_pray.cd4768d4cf9631f786e9.png",
     "static/media/screenshot_sfsu.png": "/static/media/screenshot_sfsu.a3f63bc32a4102831538.png",
     "static/media/computer-1873831.png": "/static/media/computer-1873831.26aae115d1bf697014a8.png",
     "static/media/image_csharp.jpg": "/static/media/image_csharp.ed0f932c66e87bf401ca.jpg",
+    "static/media/screenshot_racecondition.jpg": "/static/media/screenshot_racecondition.0dce8b2a8fecb3339f69.jpg",
     "static/media/image_androidstudio.png": "/static/media/image_androidstudio.1ff3f7abec857f9f7102.png",
     "static/media/image_java.jpg": "/static/media/image_java.1cf12cc40bab092192a5.jpg",
     "static/media/image_react.jpg": "/static/media/image_react.50c4a116faa19613248c.jpg",
@@ -36,12 +37,12 @@
     "static/media/image_flutter.png": "/static/media/image_flutter.314fbed279e8bcb516e3.png",
     "static/media/image_kotlin.png": "/static/media/image_kotlin.9a384e3558ce97d8d2fb.png",
     "index.html": "/index.html",
-    "main.469e88ae.css.map": "/static/css/main.469e88ae.css.map",
-    "main.688b6079.js.map": "/static/js/main.688b6079.js.map",
+    "main.1a972258.css.map": "/static/css/main.1a972258.css.map",
+    "main.e01bde0e.js.map": "/static/js/main.e01bde0e.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.469e88ae.css",
-    "static/js/main.688b6079.js"
+    "static/css/main.1a972258.css",
+    "static/js/main.e01bde0e.js"
   ]
 }
