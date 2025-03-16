@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1a972258.css",
-    "main.js": "/static/js/main.ffa0cea2.js",
+    "main.js": "/static/js/main.b7cea22c.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/screenshot_bayroomates.png": "/static/media/screenshot_bayroomates.c4ec029d3fbc5808112c.png",
     "static/media/screenshot_pray.png": "/static/media/screenshot_pray.cd4768d4cf9631f786e9.png",
@@ -14,6 +14,7 @@
     "static/media/image_java.jpg": "/static/media/image_java.1cf12cc40bab092192a5.jpg",
     "static/media/docker-mark-blue.png": "/static/media/docker-mark-blue.0f1d943e8a1505d609e5.png",
     "static/media/image_react.jpg": "/static/media/image_react.50c4a116faa19613248c.jpg",
+    "static/media/screenshot_webBookstore.png": "/static/media/screenshot_webBookstore.f12ffe2d1f66c28d3838.png",
     "static/media/image_php.jpg": "/static/media/image_php.c98b6f8f35924b3aec65.jpg",
     "static/media/image_python.png": "/static/media/image_python.f22d1fce7c62d8e9fe76.png",
     "static/media/LamdbaVibe.png": "/static/media/LamdbaVibe.65ba361fa9c6131f4840.png",
@@ -41,11 +42,11 @@
     "static/media/image_kotlin.png": "/static/media/image_kotlin.9a384e3558ce97d8d2fb.png",
     "index.html": "/index.html",
     "main.1a972258.css.map": "/static/css/main.1a972258.css.map",
-    "main.ffa0cea2.js.map": "/static/js/main.ffa0cea2.js.map",
+    "main.b7cea22c.js.map": "/static/js/main.b7cea22c.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a972258.css",
-    "static/js/main.ffa0cea2.js"
+    "static/js/main.b7cea22c.js"
   ]
 }
